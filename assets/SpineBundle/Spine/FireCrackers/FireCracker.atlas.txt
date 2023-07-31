@@ -1,0 +1,13 @@
+
+FireCracker.png
+size: 128, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fireCrackers
+  rotate: false
+  xy: 2, 2
+  size: 92, 360
+  orig: 92, 360
+  offset: 0, 0
+  index: -1

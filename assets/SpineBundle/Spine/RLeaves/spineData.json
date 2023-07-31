@@ -1,0 +1,12 @@
+{
+    "atlasFile": "RLeaves.atlas.txt",
+    "jsonFile": "RLeaves.json",
+    "view":"backSpine",
+    "position":[
+        548.9,
+        -724.7
+    ],
+    "spriteNames": [
+        "RLeaves.png"
+    ]
+}

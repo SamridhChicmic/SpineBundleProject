@@ -1,0 +1,27 @@
+
+RTree.png
+size: 4096, 4096
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+RLantern2
+  rotate: false
+  xy: 2, 1438
+  size: 1912, 1434
+  orig: 1912, 1434
+  offset: 0, 0
+  index: -1
+RTree1
+  rotate: false
+  xy: 2, 2
+  size: 1912, 1434
+  orig: 1912, 1434
+  offset: 0, 0
+  index: -1
+RTree2
+  rotate: false
+  xy: 1916, 1438
+  size: 1912, 1434
+  orig: 1912, 1434
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+{
+    "atlasFile": "fireCracker.atlas.txt",
+    "jsonFile": "fireCracker.json",
+    "view":"frontSpine",
+    "position":[
+        -1412.05,
+        0
+    ],
+    "spriteNames": [
+        "fireCracker.png"
+    ]
+}

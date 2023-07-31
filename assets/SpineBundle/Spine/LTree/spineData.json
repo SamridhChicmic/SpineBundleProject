@@ -1,0 +1,12 @@
+{
+    "atlasFile": "LTree.atlas.txt",
+    "jsonFile": "LTree.json",
+    "view":"backSpine",
+    "position":[
+        -802,
+       208
+    ],
+    "spriteNames": [
+        "LTree.png"
+    ]
+}

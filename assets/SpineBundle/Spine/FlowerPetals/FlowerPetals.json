@@ -1,0 +1,384 @@
+{
+"skeleton": {
+	"hash": "AkvlxgGualo",
+	"spine": "3.8-from-4.0-from-4.1.19",
+	"x": -1499.77,
+	"y": 4.73,
+	"width": 2814.59,
+	"height": 1537,
+	"images": "../../Assets/Asian Theme/BG/images/",
+	"audio": "D:/Ayushi/Chic Mic/Luxe Lotteries/SLOT GAMES/Assets/Asian Theme/BG"
+},
+"bones": [
+	{ "name": "root" },
+	{
+		"name": "Petals",
+		"parent": "root",
+		"length": 132.74,
+		"rotation": 88.32,
+		"x": -1477.24,
+		"y": 1451.42,
+		"scaleX": 0.7507,
+		"scaleY": 0.7507
+	},
+	{ "name": "Petals_0003_Layer-4", "parent": "Petals", "length": 62.22, "rotation": -13.69, "x": 10.41, "y": 379.27 },
+	{ "name": "Petals_0006_Layer-7", "parent": "Petals", "length": 75.76, "rotation": -145.84, "x": -26.58, "y": 382.78 },
+	{ "name": "Petals_0002_Layer-3", "parent": "Petals", "length": 49.61, "rotation": -130.38, "x": -12.51, "y": 317.54 },
+	{ "name": "Petals_0007_Layer-8", "parent": "Petals", "length": 40.06, "rotation": -40.59, "x": 63.23, "y": 308.99 },
+	{ "name": "Petals_0004_Layer-5", "parent": "Petals", "length": 59.62, "rotation": -82.26, "x": 56.73, "y": 254.88 },
+	{ "name": "Petals_0001_Layer-2", "parent": "Petals", "length": 27.73, "rotation": -63.41, "x": -12.57, "y": 166.57 },
+	{ "name": "Petals_0005_Layer-6", "parent": "Petals", "length": 34.67, "rotation": 165.13, "x": -57.3, "y": 220.97 },
+	{ "name": "Petals_0008_Layer-9", "parent": "Petals", "length": 49.7, "rotation": -94.54, "x": -108.98, "y": 175.41 },
+	{ "name": "Petals_0000_Layer-1", "parent": "Petals", "length": 27.48, "rotation": 80.37, "x": 82.64, "y": 137.91 }
+],
+"slots": [
+	{ "name": "Petals_0000_Layer-1", "bone": "Petals_0000_Layer-1", "attachment": "Petals_0000_Layer-1" },
+	{ "name": "Petals_0001_Layer-2", "bone": "Petals_0001_Layer-2", "attachment": "Petals_0001_Layer-2" },
+	{ "name": "Petals_0002_Layer-3", "bone": "Petals_0002_Layer-3", "attachment": "Petals_0002_Layer-3" },
+	{ "name": "Petals_0003_Layer-4", "bone": "Petals_0003_Layer-4", "attachment": "Petals_0003_Layer-4" },
+	{ "name": "Petals_0004_Layer-5", "bone": "Petals_0004_Layer-5", "attachment": "Petals_0004_Layer-5" },
+	{ "name": "Petals_0005_Layer-6", "bone": "Petals_0005_Layer-6", "attachment": "Petals_0005_Layer-6" },
+	{ "name": "Petals_0006_Layer-7", "bone": "Petals_0006_Layer-7", "attachment": "Petals_0006_Layer-7" },
+	{ "name": "Petals_0007_Layer-8", "bone": "Petals_0007_Layer-8", "attachment": "Petals_0007_Layer-8" },
+	{ "name": "Petals_0008_Layer-9", "bone": "Petals_0008_Layer-9", "attachment": "Petals_0008_Layer-9" },
+	{ "name": "Petals", "bone": "Petals", "attachment": "Petals" }
+],
+"path": [
+	{
+		"name": "Petals",
+		"bones": [ "Petals_0008_Layer-9" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals1",
+		"order": 1,
+		"bones": [ "Petals_0005_Layer-6" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals2",
+		"order": 2,
+		"bones": [ "Petals_0001_Layer-2" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals3",
+		"order": 3,
+		"bones": [ "Petals_0000_Layer-1" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals4",
+		"order": 4,
+		"bones": [ "Petals_0004_Layer-5" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals5",
+		"order": 5,
+		"bones": [ "Petals_0002_Layer-3" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals6",
+		"order": 6,
+		"bones": [ "Petals_0007_Layer-8" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals7",
+		"order": 7,
+		"bones": [ "Petals_0003_Layer-4" ],
+		"target": "Petals"
+	},
+	{
+		"name": "Petals8",
+		"order": 8,
+		"bones": [ "Petals_0006_Layer-7" ],
+		"target": "Petals"
+	}
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Petals": {
+				"Petals": {
+					"type": "path",
+					"lengths": [ 978.42, 1710.58, 2485.23, 3377.28, 6601.06 ],
+					"vertexCount": 15,
+					"vertices": [ 10.52, -269.58, -92.11, -52.41, -194.73, 164.8, -575.04, -971.38, -555.47, -1222.08, -530.01, -1548.29, -355.39, -1930.08, -351.17, -2174.29, -345.87, -2481.13, -497.45, -2704.27, -459.82, -3197.25, -429.29, -3597.41, -185.21, -4227.09, -149.8, -4341.75, -72.79, -4591.07 ]
+				}
+			},
+			"Petals_0000_Layer-1": {
+				"Petals_0000_Layer-1": {
+					"x": 16.14,
+					"y": 1.56,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": 20.29,
+					"width": 90,
+					"height": 53
+				}
+			},
+			"Petals_0001_Layer-2": {
+				"Petals_0001_Layer-2": {
+					"x": 16.56,
+					"y": -1.69,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": 164.07,
+					"width": 81,
+					"height": 56
+				}
+			},
+			"Petals_0002_Layer-3": {
+				"Petals_0002_Layer-3": {
+					"x": 21.03,
+					"y": -1.13,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": -128.96,
+					"width": 105,
+					"height": 105
+				}
+			},
+			"Petals_0003_Layer-4": {
+				"Petals_0003_Layer-4": {
+					"x": 38.09,
+					"y": -5.19,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": 114.35,
+					"width": 124,
+					"height": 147
+				}
+			},
+			"Petals_0004_Layer-5": {
+				"Petals_0004_Layer-5": {
+					"x": 24.14,
+					"y": -5.63,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": -177.08,
+					"width": 141,
+					"height": 74
+				}
+			},
+			"Petals_0005_Layer-6": {
+				"Petals_0005_Layer-6": {
+					"x": 17.84,
+					"y": -1.69,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": -64.46,
+					"width": 106,
+					"height": 81
+				}
+			},
+			"Petals_0006_Layer-7": {
+				"Petals_0006_Layer-7": {
+					"x": 40.85,
+					"y": -3.47,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": -113.49,
+					"width": 83,
+					"height": 153
+				}
+			},
+			"Petals_0007_Layer-8": {
+				"Petals_0007_Layer-8": {
+					"x": 19.25,
+					"y": 0.13,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": 141.25,
+					"width": 94,
+					"height": 83
+				}
+			},
+			"Petals_0008_Layer-9": {
+				"Petals_0008_Layer-9": {
+					"x": 27.26,
+					"y": -3.55,
+					"scaleX": 0.4483,
+					"scaleY": 0.4483,
+					"rotation": -164.8,
+					"width": 125,
+					"height": 62
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"Petals_0000_Layer-1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0001_Layer-2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0002_Layer-3": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0003_Layer-4": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0004_Layer-5": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0005_Layer-6": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0006_Layer-7": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0007_Layer-8": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			},
+			"Petals_0008_Layer-9": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			}
+		},
+		"path": {
+			"Petals": {
+				"position": [
+					{},
+					{ "time": 4, "position": 1 }
+				],
+				"mix": [
+					{ "rotateMix": 0.451, "translateMix": 0.451 },
+					{ "time": 1.6, "rotateMix": 0.902, "translateMix": 0.902 },
+					{ "time": 4, "rotateMix": 0.9608, "translateMix": 0.9608 }
+				]
+			},
+			"Petals1": {
+				"position": [
+					{},
+					{ "time": 4, "position": 0.9626 }
+				],
+				"mix": [
+					{ "rotateMix": 0.402, "translateMix": 0.402 },
+					{ "time": 1.6, "rotateMix": 0.8431, "translateMix": 0.8431 },
+					{ "time": 4, "rotateMix": 0.951, "translateMix": 0.951 }
+				]
+			},
+			"Petals2": {
+				"position": [
+					{},
+					{ "time": 4, "position": 1 }
+				],
+				"mix": [
+					{ "rotateMix": 0.5098, "translateMix": 0.5098 },
+					{ "time": 1.6 }
+				]
+			},
+			"Petals3": {
+				"position": [
+					{},
+					{ "time": 4, "position": 0.9533 }
+				],
+				"mix": [
+					{ "rotateMix": 0.8824, "translateMix": 0.8824 },
+					{ "time": 1.6, "rotateMix": 0.951, "translateMix": 0.951 },
+					{ "time": 4, "rotateMix": 0.9608, "translateMix": 0.9608 }
+				]
+			},
+			"Petals4": {
+				"position": [
+					{},
+					{ "time": 4, "position": 0.97 }
+				],
+				"mix": [
+					{ "rotateMix": 0.8333, "translateMix": 0.8333 },
+					{ "time": 1.6, "rotateMix": 0.9118, "translateMix": 0.9118 }
+				]
+			},
+			"Petals5": {
+				"position": [
+					{},
+					{ "time": 4, "position": 0.9065 }
+				],
+				"mix": [
+					{ "rotateMix": 0.6667, "translateMix": 0.6667 },
+					{ "time": 1.6, "rotateMix": 0.9216, "translateMix": 0.9216 }
+				]
+			},
+			"Petals6": {
+				"position": [
+					{},
+					{ "time": 4, "position": 0.9439 }
+				],
+				"mix": [
+					{ "rotateMix": 0.8137, "translateMix": 0.8137 },
+					{ "time": 1.6, "rotateMix": 0.9412, "translateMix": 0.9412 }
+				]
+			},
+			"Petals7": {
+				"position": [
+					{},
+					{ "time": 4, "position": 0.98 }
+				],
+				"mix": [
+					{ "rotateMix": 0.8922, "translateMix": 0.8922 },
+					{ "time": 1.6, "rotateMix": 0.9608, "translateMix": 0.9608 }
+				]
+			},
+			"Petals8": {
+				"position": [
+					{},
+					{ "time": 4, "position": 0.9252 }
+				]
+			}
+		}
+	}
+}
+}

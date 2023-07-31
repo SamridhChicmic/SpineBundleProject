@@ -1,0 +1,69 @@
+
+FlowerPetals.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Petals_0000_Layer-1
+  rotate: false
+  xy: 200, 28
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+Petals_0001_Layer-2
+  rotate: false
+  xy: 453, 80
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+Petals_0002_Layer-3
+  rotate: false
+  xy: 301, 45
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Petals_0003_Layer-4
+  rotate: false
+  xy: 2, 16
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+Petals_0004_Layer-5
+  rotate: false
+  xy: 200, 67
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+Petals_0005_Layer-6
+  rotate: false
+  xy: 377, 62
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+Petals_0006_Layer-7
+  rotate: true
+  xy: 91, 61
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+Petals_0007_Layer-8
+  rotate: false
+  xy: 377, 2
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+Petals_0008_Layer-9
+  rotate: false
+  xy: 91, 16
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+LLeaves.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Flower2
+  rotate: false
+  xy: 592, 54
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+Leaf1
+  rotate: true
+  xy: 1213, 218
+  size: 253, 265
+  orig: 253, 265
+  offset: 0, 0
+  index: -1
+Leaf2
+  rotate: true
+  xy: 2, 2
+  size: 469, 588
+  orig: 469, 588
+  offset: 0, 0
+  index: -1
+Leaf3
+  rotate: false
+  xy: 592, 182
+  size: 311, 289
+  orig: 311, 289
+  offset: 0, 0
+  index: -1
+Leaf5
+  rotate: false
+  xy: 905, 221
+  size: 306, 250
+  orig: 306, 250
+  offset: 0, 0
+  index: -1
+Lotus
+  rotate: true
+  xy: 1480, 408
+  size: 63, 365
+  orig: 63, 365
+  offset: 0, 0
+  index: -1

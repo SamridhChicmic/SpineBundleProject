@@ -1,0 +1,16 @@
+{
+    "atlasFile": "FlowerPetals.atlas.txt",
+    "jsonFile": "FlowerPetals.json",
+    "view":"frontSpine",
+    "position":[
+        151.5,
+        -428.15
+    ],
+    "scale":[
+        0.75,
+        0.75
+    ],
+    "spriteNames": [
+        "FlowerPetals.png"
+    ]
+}
